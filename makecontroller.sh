@@ -1,0 +1,1 @@
+docker exec -u 1000 finalcontainer php artisan make:controller AulaController
